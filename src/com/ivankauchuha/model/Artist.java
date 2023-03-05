@@ -1,6 +1,6 @@
 package com.ivankauchuha.model;
 
-public class Artists {
+public class Artist {
     private int id;
     private String name;
 
